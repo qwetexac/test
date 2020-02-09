@@ -1,4 +1,5 @@
 {
-	"type":"Shiran",
-	"age":32
+	"type":"cat",
+	"age":32,
+	"name":"Shiran"
 }
